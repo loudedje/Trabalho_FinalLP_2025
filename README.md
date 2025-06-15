@@ -15,6 +15,10 @@ Este projeto é um interpretador de uma linguagem funcional, desenvolvido em **H
 - ✅ Verificador de tipos (`typecheck`)
 - ✅ Avaliação com `step` (um passo) e `eval` (completo)
 
+
+  🔗 **[Clique aqui para assistir à demonstração](https://seu-link-aqui.com)**
+
+
 ---
 
 ## 📁 Estrutura dos Arquivos
